@@ -29,7 +29,6 @@ call plug#end()
 
 "colorscheme darcula
 colorscheme minimalist
-"let g:lightline = { 'colorscheme': 'darculaOriginal' }
 :let g:NERDTreeWinSize=30
 
 "mappings
